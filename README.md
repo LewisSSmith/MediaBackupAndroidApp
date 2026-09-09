@@ -4,6 +4,8 @@
 
 An android app client for communicating with [Media Backup Backend](https://github.com/LewisSSmith/MediaBackupServer)
 
+This repository is part of the [Media Backup Project](https://github.com/LewisSSmith/MediaBackup)
+
 ## Setup
 
 Simply clone this repository to a directory of your choice and open the directory in Android Studio
